@@ -1,0 +1,9 @@
+# python output/bytecode
+*.pyc
+__pycache__
+
+# resource folder with chrome driver for selenium
+resources
+
+# environment variables
+.env
